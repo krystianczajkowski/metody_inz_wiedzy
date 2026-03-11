@@ -1,5 +1,7 @@
-from itertools import combinations
+# from itertools import combinations
 
+# szukamy sprzeczności na atrybutach,
+# gdy występuje przechodzimy do następnego atrybutu
 # 3 pętle
 # wczytywanie systemu decyzyjnego z pliku
 
